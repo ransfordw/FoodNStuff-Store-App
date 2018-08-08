@@ -14,6 +14,8 @@ namespace FoodNStuff.WebMVC.Models
         public int CustomerID { get; set; }
 
         public int ProductID { get; set; }
+        //add a property to account for quantity purchased/sold
+        //that prop will be related to product.Quantity
 
         public virtual Product Product { get; set; }
         public virtual Customer Customer { get; set; }

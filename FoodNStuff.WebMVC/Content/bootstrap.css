@@ -11,6 +11,7 @@ html {
 }
 body {
   margin: 0;
+  background-color: saddlebrown;
 }
 article,
 aside,
@@ -4960,7 +4961,7 @@ a.badge:focus {
   padding-bottom: 30px;
   margin-bottom: 30px;
   color: inherit;
-  background-color: #eee;
+  background-color: saddlebrown;
 }
 .jumbotron h1,
 .jumbotron .h1 {
